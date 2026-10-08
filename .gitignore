@@ -1,0 +1,7 @@
+/openresty-node-agent
+/dist/
+/coverage.out
+*.test
+.env
+.env.*
+!.env.example
